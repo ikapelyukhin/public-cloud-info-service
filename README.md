@@ -41,7 +41,7 @@ DATA-TYPE is one of
 
 `smt` or `regionserver` for the servers type
 
-`active`, `deprecated` or `deleted` for the images type
+`active`, `inactive`, `deprecated` or `deleted` for the images type
 
 
 Design decisions for the API
